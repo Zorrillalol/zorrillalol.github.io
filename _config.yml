@@ -1,0 +1,22 @@
+# Setup
+title:               JLZA
+tagline:             'Criptografía '
+description:         'JLZA'
+url:                 
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Jose Luis Zorrilla Alfaro
+  url:               https://twitter.com/jozorrilla1
+  email:             luis56587@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
